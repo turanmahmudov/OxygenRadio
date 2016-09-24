@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stations>
+    <station id="1" featured="true">
+        <name>Smooth Jazz 247</name>
+        <description>The worlds favorite smooth jazz station. With DJs 24 hours a day.</description>
+        <playlist_url>http://dir.xiph.org/listen/931629/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/smoothjazz247</listen_url>
+        <image>https://i3.radionomy.com/radios/100/84e397e7-fdc2-4afe-bb70-d23b658708b1.jpg</image>
+        <uid>84e397e7-fdc2-4afe-bb70-d23b658708b1</uid>
+        <genre>jazz, lounge, easylistening</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="2" featured="true">
+        <name>All Smooth Jazz</name>
+        <description>Smooth Jazz Hits 24&#47;7</description>
+        <playlist_url>http://dir.xiph.org/listen/1754394/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/all-smooth-jazz</listen_url>
+        <image>https://i3.radionomy.com/radios/100/2f9ed072-d68f-484c-b31f-230d284ecdcb.jpg</image>
+        <uid>2f9ed072-d68f-484c-b31f-230d284ecdcb</uid>
+        <genre>jazz, urban</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="3" featured="true">
+        <name>ABC Jazz</name>
+        <description>ABC Jazz, Pure jazz</description>
+        <playlist_url>http://dir.xiph.org/listen/2072969/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/abc-jazz</listen_url>
+        <image>https://i3.radionomy.com/radios/100/07bf66bf-fe82-4586-aa93-b53466827b45.jpeg</image>
+        <uid>07bf66bf-fe82-4586-aa93-b53466827b45</uid>
+        <genre>jazz</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="4">
+        <name>Ourworld Pop</name>
+        <description>Chart topping pop music</description>
+        <playlist_url>http://dir.xiph.org/listen/2052723/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/ourworld-pop</listen_url>
+        <image>https://i3.radionomy.com/radios/100/8ded59c2-86ba-4610-babb-c797bbe24063.gif</image>
+        <uid>8ded59c2-86ba-4610-babb-c797bbe24063</uid>
+        <genre>pop, hits</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="5" featured="true">
+        <name>A Better Old School Classic Rap Station</name>
+        <description>A Better Old School Classic Rap Radio Station. We dig DEEP in the crates to deliver a REAL Old School Rap Station. No Autotune allowed. Just Dope Beats, Rhyme and Flava.</description>
+        <playlist_url>http://dir.xiph.org/listen/1446094/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/a-better-old-school-classic-rap-station</listen_url>
+        <image>https://i3.radionomy.com/radios/100/2081d7e4-ec0f-4728-b66e-74a63aae7fbe.png</image>
+        <uid>2081d7e4-ec0f-4728-b66e-74a63aae7fbe</uid>
+        <genre>hiphop, urban</genre>
+        <stars>2</stars>
+    </station>
+
+    <station id="6" featured="true">
+        <name>Grunge 90</name>
+        <description>Le meilleur du grunge d'hier à aujourd'hui. Saupoudré de metal.</description>
+        <playlist_url>http://dir.xiph.org/listen/951523/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/grunge90</listen_url>
+        <image>https://i3.radionomy.com/radios/100/d72aa16d-3153-497e-8341-25f5e63164a4.jpg</image>
+        <uid>d72aa16d-3153-497e-8341-25f5e63164a4</uid>
+        <genre>rock, metal</genre>
+        <stars>1</stars>
+    </station>
+
+    <station id="7">
+        <name>Bob Marley</name>
+        <description>24h&#47;24 et 7j&#47;7, la radio vous offre plus de 200 titres à l’heure actuelle constitués de titres originaux de Bob Marley mais aussi les Bob Family, des remix, des reprises et sur le blog pleins d’infos sur le Lions.</description>
+        <playlist_url>http://dir.xiph.org/listen/1884599/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/bob-marley</listen_url>
+        <image>https://i3.radionomy.com/radios/100/240d9432-d8d8-4444-b4c7-f55697c5f503.png</image>
+        <uid>240d9432-d8d8-4444-b4c7-f55697c5f503</uid>
+        <genre>reggae</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="8">
+        <name>Ledjam Radio</name>
+        <description>Ledjam Radio : la radio éclectique ! Soul, funk, pop, rock, rap, reggae.</description>
+        <playlist_url>http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3</playlist_url>
+        <listen_url>http://listen.radionomy.com/ledjamradio.mp3</listen_url>
+        <image>https://i3.radionomy.com/radios/100/704f3bbf-3500-4ae9-91da-984653ed5984.jpg</image>
+        <uid>704f3bbf-3500-4ae9-91da-984653ed5984</uid>
+        <genre>reggae, pop, funk, soul</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="9">
+        <name>Fun Ado Song</name>
+        <description>La web radio 100&#37; française!</description>
+        <playlist_url>http://dir.xiph.org/listen/2051778/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/funadosong</listen_url>
+        <image>https://i3.radionomy.com/radios/100/a8dddb18-5c97-4a63-9aec-53ff9a10204b.png</image>
+        <uid>a8dddb18-5c97-4a63-9aec-53ff9a10204b</uid>
+        <genre>hiphop, urban, blues, electronic, hits</genre>
+        <stars>4</stars>
+    </station>
+
+    <station id="10" featured="true">
+        <name>Abacus.Fm Vintage Jazz</name>
+        <description>Jazz from the 1920s to 1940s on Abacus.fm Vintage Jazz. Visit our website at http:&#47;&#47;www.abacus.fm</description>
+        <playlist_url>http://dir.xiph.org/listen/925914/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/abacusfm-vintage-jazz</listen_url>
+        <image>https://i3.radionomy.com/radios/100/d86503b6-5f94-425f-b258-a75686610051.jpg</image>
+        <uid>d86503b6-5f94-425f-b258-a75686610051</uid>
+        <genre>blues, jazz</genre>
+        <stars>3</stars>
+    </station>
+
+    <station id="11">
+        <name>RadioSky Music</name>
+        <description>WebRadio essentially musical, styles in: Jazz, Vocal Jazz, Blues, Swing, BigBand, Latin Jazz, Caribbean, Brazil...</description>
+        <playlist_url>http://dir.xiph.org/listen/1046683/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/radiosky-music</listen_url>
+        <image>https://i3.radionomy.com/radios/100/d43c9a34-838d-4f60-bb61-a17b41488275.jpg</image>
+        <uid>d43c9a34-838d-4f60-bb61-a17b41488275</uid>
+        <genre>blues, jazz</genre>
+        <stars>3</stars>
+    </station>
+
+    <station id="12">
+        <name>100 Chill</name>
+        <description>100&#37; Lounge and Chill-out music.</description>
+        <playlist_url>http://listen.radionomy.com/100-chill</playlist_url>
+        <listen_url>http://listen.radionomy.com/100-chill</listen_url>
+        <image>https://i3.radionomy.com/radios/100/27d6729d-ca2a-4f93-9464-0034aa8b3c16.jpg</image>
+        <uid>27d6729d-ca2a-4f93-9464-0034aa8b3c16</uid>
+        <genre>ambient, chillout, easylistening, lounge, jazz</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="13" featured="true">
+        <name>101 Smooth Jazz</name>
+        <description>The smoothest jazz. All instrumental. Perfect background music, any time, any place.</description>
+        <playlist_url>http://dir.xiph.org/listen/2015452/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/101smoothjazz</listen_url>
+        <image>https://i3.radionomy.com/radios/100/98489309-a9cf-4d10-a4fb-9e744f10e764.jpg</image>
+        <uid>98489309-a9cf-4d10-a4fb-9e744f10e764</uid>
+        <genre>chillout, easylistening, lounge, jazz</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="14" featured="true">
+        <name>ABC Lounge</name>
+        <description>ABC LOUNGE invites you to laze in the sun of the French Riviera. Join Us on Facebook.com&#47;abclounge</description>
+        <playlist_url>http://dir.xiph.org/listen/1755460/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/abc-lounge</listen_url>
+        <image>https://i3.radionomy.com/radios/100/e4e1f437-4350-4d5d-a0c2-a93b4d23f3fd.png</image>
+        <uid>e4e1f437-4350-4d5d-a0c2-a93b4d23f3fd</uid>
+        <genre>ambient, chillout, easylistening, lounge, jazz</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="15" featured="true">
+        <name>Absolute Chillout</name>
+        <description>Ibiza Chill with a touch of Lounge. It's what dreams are made of.</description>
+        <playlist_url>http://dir.xiph.org/listen/1921640/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/absolutechillout</listen_url>
+        <image>https://i3.radionomy.com/radios/100/ab56377f-4bfc-4efe-9959-5f59dd992048.jpg</image>
+        <uid>ab56377f-4bfc-4efe-9959-5f59dd992048</uid>
+        <genre>downtempo, chillout, easylistening, lounge, jazz</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="16" featured="true">
+        <name>Bossa Nova Breakfast</name>
+        <description>The Bossa Nova Breakfast is a unique online radio station playing Bossa Nova, Samba, Brazilian Jazz!</description>
+        <playlist_url>http://dir.xiph.org/listen/1755242/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/bossanovabreakfast</listen_url>
+        <image>https://i3.radionomy.com/radios/100/623d7fdf-0d9a-4f7f-8e8a-81b97983efdc.png</image>
+        <uid>623d7fdf-0d9a-4f7f-8e8a-81b97983efdc</uid>
+        <genre>jazz, chillout, world</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="17" featured="true">
+        <name>113.fm Highway Radio</name>
+        <description>The Planet's #1 Hot Country Hits Station</description>
+        <playlist_url>http://dir.xiph.org/listen/2079644/listen.m3u</playlist_url>
+        <listen_url>http://listen.shoutcast.com/113fmhighwayradio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/319779bc-c210-4a09-9aba-1d5a28c7edab.jpg</image>
+        <uid>319779bc-c210-4a09-9aba-1d5a28c7edab</uid>
+        <genre>country, pop</genre>
+        <stars>3</stars>
+    </station>
+
+    <station id="18" featured="true">
+        <name>Cafe Romantico Radio</name>
+        <description>Melodías Románticas del ayer con aroma a Café y algo más... Música para los amores de todas las edades, de todas las épocas, de toda la vida...</description>
+        <playlist_url>http://dir.xiph.org/listen/2068421/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/cafe-romantico-radio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/4ca4c2c3-50e7-4410-9875-8c6c7a422014.jpg</image>
+        <uid>4ca4c2c3-50e7-4410-9875-8c6c7a422014</uid>
+        <genre>latin, oldies, hits</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="19" featured="true">
+        <name>100 HIT radio</name>
+        <description>UK, US and Euro Charts top 100 music, 24&#47;7.</description>
+        <playlist_url>http://dir.xiph.org/listen/1755539/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/100-hit-radio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/e6b3f820-49ce-4145-a74b-fd006cd7dfb0.jpg</image>
+        <uid>e6b3f820-49ce-4145-a74b-fd006cd7dfb0</uid>
+        <genre>dance, hits, pop</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="20" featured="true">
+        <name>Radio Nostalgia</name>
+        <description>Alleen de beste oldies uit de jaren 50, 60 en 70 Only the best oldies from the fifties, sixties and seventies</description>
+        <playlist_url>http://radio-nostalgia.nl/nostalgia.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/radio-nostalgia</listen_url>
+        <image>https://i3.radionomy.com/radios/100/93883daa-4b9a-4784-8108-05e7081d0bbc.png</image>
+        <uid>93883daa-4b9a-4784-8108-05e7081d0bbc</uid>
+        <genre>oldies, hits, 60s, 70s</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="21" featured="true">
+        <name>A Better Billboard Hot 100 Chart Station</name>
+        <description>A Better Billboard Hot 100 Chart Radio Station features the Top 100 Pop and Rock Songs played on the radio in the United States.</description>
+        <playlist_url>http://dir.xiph.org/listen/2090598/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/a-better-billboard-hot-100-chart-station</listen_url>
+        <image>https://i3.radionomy.com/radios/100/ad65b0c3-e5f1-493e-8f1c-d824858af228.png</image>
+        <uid>ad65b0c3-e5f1-493e-8f1c-d824858af228</uid>
+        <genre>hits, pop, rock</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="22">
+        <name>Alpenradio|Volksmusik</name>
+        <description>The best german folk songs. Volksmusik, Schlager und Blasmusik.</description>
+        <playlist_url>http://dir.xiph.org/listen/2072194/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/alpenradio-volksmusik</listen_url>
+        <image>https://i3.radionomy.com/radios/100/4d1e1e24-6b78-44af-a7af-60dabd97b81d.png</image>
+        <uid>4d1e1e24-6b78-44af-a7af-60dabd97b81d</uid>
+        <genre>oldies, folk, world</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="23" featured="true">
+        <name>Hotmixradio 80</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique des années 80 sans pub ! Tags : 80s, années 80, pop, rock, funky, new wave</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-80-128</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-80-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/2bf6e407-d028-4621-bc64-8964fa5e1d91.png</image>
+        <uid>2bf6e407-d028-4621-bc64-8964fa5e1d91</uid>
+        <genre>hits, pop, rock, 80s</genre>
+        <stars>5</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="24" featured="true">
+        <name>Hotmixradio Hits</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de Hits et de nouveautés sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-hits-128</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-hits-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/8c5336b5-4818-4c22-80bc-874581587d1c.png</image>
+        <uid>8c5336b5-4818-4c22-80bc-874581587d1c</uid>
+        <genre>hits</genre>
+        <stars>5</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="25">
+        <name>CINEMIX</name>
+        <description>The Spirit of Soundtracks ! CINEMIX plays a regularly updated selection of movie soundtracks, mostly orchestral since 2003. Our radio channel features world renowned artists and themes but also some beautiful new pieces that you can listen to peacefully wherever you are. An eclectic selection of soundtracks from USA, Europe, Asia and other galaxies... that will surprise you and help you to appreciate our favorites.</description>
+        <playlist_url>http://dir.xiph.org/listen/1883431/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/cinemix</listen_url>
+        <image>https://i3.radionomy.com/radios/100/e32b5e31-0ebe-42e8-bb90-6aa0dff1f787.jpg</image>
+        <uid>e32b5e31-0ebe-42e8-bb90-6aa0dff1f787</uid>
+        <genre>classical, world, chillout, misc</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="26" featured="true">
+        <name>1000 Classical Hits</name>
+        <description>1000 Classical Hits A Hand Picked Selection of Some of the Best Classical Pieces.</description>
+        <playlist_url>http://listen.radionomy.com/1000classicalhits</playlist_url>
+        <listen_url>http://listen.radionomy.com/1000classicalhits</listen_url>
+        <image>https://i3.radionomy.com/radios/100/dbeca4c5-99f6-480c-a1f3-39b4a44f9c8a.jpg</image>
+        <uid>dbeca4c5-99f6-480c-a1f3-39b4a44f9c8a</uid>
+        <genre>classical</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="27">
+        <name>PandaShow Radio</name>
+        <description>En vivo desde Mexico, el Panda Zambrano te divierte con sus bromas y sus chichis de punta de bolillo.</description>
+        <playlist_url>http://dir.xiph.org/listen/1859087/listen.m3u</playlist_url>
+        <listen_url>http://listen.shoutcast.com/pandashowradio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/a4770fa6-32a3-4a12-b785-edbcbf27d468.jpg</image>
+        <uid>a4770fa6-32a3-4a12-b785-edbcbf27d468</uid>
+        <genre>latin, salsa</genre>
+        <stars>5</stars>
+    </station>
+
+    <station id="28">
+        <name>Radio Beats FM</name>
+        <description>A Beats FM foi criada no dia 21 de março de 2015 com o intuito de trazer o que está bombando no Brasil e no mundo! Sendo planejada desde janeiro de 2015, ela acaba de sair do papel para mostrar que rádio de verdade são aquelas que tocam o que realmente você quer ouvir!</description>
+        <playlist_url>http://listen.shoutcast.com/radiobeatsfm</playlist_url>
+        <listen_url>http://listen.shoutcast.com/radiobeatsfm</listen_url>
+        <image>https://i3.radionomy.com/radios/100/819a70bd-3a8c-4f8e-85ec-87e1015d3512.jpg</image>
+        <uid>819a70bd-3a8c-4f8e-85ec-87e1015d3512</uid>
+        <genre>latin, pop, electronic</genre>
+        <stars>5</stars>
+        <website>http://beatsfm.com.br/</website>
+    </station>
+
+    <station id="29" featured="true">
+        <name>Revolution FM</name>
+        <description>Descubre una nueva sensación musical. Somos una radio extrovertida, divertida y original. Disfruta de las sesiones de los deejays más potenciales del momento.</description>
+        <playlist_url>http://dir.xiph.org/listen/1724893/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/revolution-fm</listen_url>
+        <image>https://i3.radionomy.com/radios/100/5e8fe722-3f30-45d7-ab7d-9993cd637343.png</image>
+        <uid>5e8fe722-3f30-45d7-ab7d-9993cd637343</uid>
+        <genre>pop, dance, indie, electronic, house</genre>
+        <stars>5</stars>
+        <website>http://revolutionradio.ml/</website>
+    </station>
+
+    <station id="30" featured="true">
+        <name>Hotmixradio Dance</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique House, Dance et DJs sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-dance-128</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-dance-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/dcdcdfeb-8e6c-4b4f-b9ac-9063a8909b37.png</image>
+        <uid>dcdcdfeb-8e6c-4b4f-b9ac-9063a8909b37</uid>
+        <genre>dance, disco, electronic</genre>
+        <stars>5</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="31">
+        <name>RadiomymeTV</name>
+        <description>Radiomyme is a web station with only the best Clubbing charts (Top US, and EU). First station in new charts, we are constantly searching all over the web the best futur charts before every one. Radiomyme Webstation Since 2011. Radiomyme, Share Music, Emotions, Love !</description>
+        <playlist_url>http://dir.xiph.org/listen/6094/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/radiomyme-tv</listen_url>
+        <image>https://i3.radionomy.com/radios/100/f9db390a-41f9-4e6d-8662-faa069aeb984.png</image>
+        <uid>f9db390a-41f9-4e6d-8662-faa069aeb984</uid>
+        <genre>electronic, pop, dance, disco</genre>
+        <stars>5</stars>
+        <website>http://www.radiomyme.com/</website>
+    </station>
+
+    <station id="32">
+        <name>TopClub</name>
+        <description>Entre dans le meilleur du son sur Topclubradio ! les nouvelles stars avant les autres. écoutes les nouveaux hits en exclu ! Topclubradio the new stars , new plays hits in excluded !</description>
+        <playlist_url>http://dir.xiph.org/listen/6975/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/topclub</listen_url>
+        <image>https://i3.radionomy.com/radios/100/29eea19a-2b84-4da5-99f0-3628b74c40f9.gif</image>
+        <uid>29eea19a-2b84-4da5-99f0-3628b74c40f9</uid>
+        <genre>hits, electronic, dance, disco, house, techno</genre>
+        <stars>5</stars>
+        <website>http://www.topclubradio.fr/</website>
+    </station>
+
+    <station id="33" featured="true">
+        <name>FeeverMix</name>
+        <description>MixFeever, la radio 100% Club. Toute la journée, les hits dancefloor, les tubes dance et electro mais aussi du trap, du moombathon, de la deephouse et bien plus encore. Disponible aussi sur Smartphone et Tablette</description>
+        <playlist_url>http://dir.xiph.org/listen/6856/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/feevermix</listen_url>
+        <image>https://i3.radionomy.com/radios/100/3bcdd76a-9277-4a84-bbfb-0c462a92be88.jpg</image>
+        <uid>3bcdd76a-9277-4a84-bbfb-0c462a92be88</uid>
+        <genre>electronic, house, dance, disco</genre>
+        <stars>4</stars>
+        <website>http://www.mixfeever.com/</website>
+    </station>
+
+    <station id="34" featured="true">
+        <name>1 Radio Dance</name>
+        <description>24 h. Dance &amp; Hits Non Stop</description>
+        <playlist_url>http://dir.xiph.org/listen/9098/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/1-radio-dance</listen_url>
+        <image>https://i3.radionomy.com/radios/100/15e76aee-7d15-41b8-b332-7a78c93d155e.jpg</image>
+        <uid>15e76aee-7d15-41b8-b332-7a78c93d155e</uid>
+        <genre>electronic, house, dance, disco, hits</genre>
+        <stars>4</stars>
+        <website>http://www.radiodance.net/</website>
+    </station>
+
+    <station id="35">
+        <name>Ghana Waves Radio</name>
+        <description>The first Ghanaian Internet radio stations otherwise known as The Stations for Ghanaians Abroad entails Ghana News, Reggae, RnB, Soul, World News, Music, Debate, Gospel and many more from all over the world, specially African.</description>
+        <playlist_url>http://dir.xiph.org/listen/29810/listen.m3u</playlist_url>
+        <listen_url>http://listen.shoutcast.com/ghanawavesradio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/a89eedf2-51e7-4745-b02e-fa533bbed34c.png</image>
+        <uid>a89eedf2-51e7-4745-b02e-fa533bbed34c</uid>
+        <genre>news, reggae, soul</genre>
+        <stars>4</stars>
+        <website>http://www.ghanawaves.com/</website>
+    </station>
+
+    <station id="36">
+        <name>A1 Country - Country Legends Classics</name>
+        <description>Where All The Good Country Songs Have Gone</description>
+        <playlist_url>http://dir.xiph.org/listen/8784/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/a1country-countrylegendsclassics</listen_url>
+        <image>https://i3.radionomy.com/radios/100/953805ae-b98b-4977-b4d5-da7a75296b21.png</image>
+        <uid>953805ae-b98b-4977-b4d5-da7a75296b21</uid>
+        <genre>country, pop, oldies</genre>
+        <stars>3</stars>
+        <website>http://a1country.com/</website>
+    </station>
+
+    <station id="37" featured="true">
+        <name>100% HARD ROCK</name>
+        <description>A special Hard Rock radio with AC/DC , Led Zeppelin , Deep Purple , Def Leppard , Scorpions and much more. Radio spécialement dédiée au hard rock.Retrouvez les grands standards d'AC/DC , Led Zeppelin , Deep Purple , Def Leppard , Scorpions , Simple plan etc...</description>
+        <playlist_url>http://dir.xiph.org/listen/41630/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/100-hard-rock</listen_url>
+        <image>https://i3.radionomy.com/radios/100/a5a80f3b-760a-4e6a-ad33-bf81753b7d43.jpg</image>
+        <uid>a5a80f3b-760a-4e6a-ad33-bf81753b7d43</uid>
+        <genre>rock, metal</genre>
+        <stars>3</stars>
+        <website>http://100-hard-rock.playtheradio.com/</website>
+    </station>
+
+    <station id="38">
+        <name>CLASSIC METAL RADIO</name>
+        <description>Hard 'n Heavy Sounds From The 20th Century &amp; Beyond</description>
+        <playlist_url>http://dir.xiph.org/listen/10698/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/classicmetalradio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/ac7ade91-3384-4999-8f3f-4918133c5f71.jpg</image>
+        <uid>ac7ade91-3384-4999-8f3f-4918133c5f71</uid>
+        <genre>metal, rock</genre>
+        <stars>2</stars>
+        <website>http://classicmetalradio.net/</website>
+    </station>
+
+    <station id="39">
+        <name>One love Hip Hop Radio</name>
+        <description>Classic and New Hip Hop and R&amp;B</description>
+        <playlist_url>http://dir.xiph.org/listen/8357/listen.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/one-love-hip-hop-radio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/775ff608-3622-435d-a3d3-224307d0ec58.jpg</image>
+        <uid>775ff608-3622-435d-a3d3-224307d0ec58</uid>
+        <genre>hiphop, urban</genre>
+        <stars>3</stars>
+        <website>http://www.one.hiphop/</website>
+    </station>
+
+    <station id="40">
+        <name>Hotmixradio Frenchy</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de chansons françaises sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-frenchy-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-frenchy-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/13812d7b-ad33-4b7b-a878-af2c74d666e7.png</image>
+        <uid>13812d7b-ad33-4b7b-a878-af2c74d666e7</uid>
+        <genre>world</genre>
+        <stars>3</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="41">
+        <name>Ambient Meditation Music</name>
+        <description>Music to aid in meditation. Internet radio 24 hours a day from your meditation station.</description>
+        <playlist_url>http://listen.radionomy.com/ambientmeditationmusic.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/ambientmeditationmusic</listen_url>
+        <image>https://i3.radionomy.com/radios/100/3daafff3-475e-4ed7-b0c2-9f055542330f.jpg</image>
+        <uid>3daafff3-475e-4ed7-b0c2-9f055542330f</uid>
+        <genre>ambient, misc</genre>
+        <stars>3</stars>
+        <website>http://www.meditationmusic.co.uk/</website>
+    </station>
+
+    <station id="42">
+        <name>A Better Classic Blues Vintage Station</name>
+        <description>A Better Classic Blues Vintage Radio Station plays all of the classic Blues gems that you will not find anywhere else on the net. Featuring all of your favorite artists and sound recordings from the Delta to New Orleans.</description>
+        <playlist_url>http://listen.radionomy.com/a-better-classic-blues-vintage-station.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/a-better-classic-blues-vintage-station</listen_url>
+        <image>https://i3.radionomy.com/radios/100/e0c2baeb-a182-449c-bc40-033605b778b2.png</image>
+        <uid>e0c2baeb-a182-449c-bc40-033605b778b2</uid>
+        <genre>blues, jazz</genre>
+        <stars>2</stars>
+        <website>http://www.abetterradio.com/</website>
+    </station>
+
+    <station id="43" featured="true">
+        <name>ABC Relax</name>
+        <description>ABC Relax: écoute, profite et détends-toi. ABC Relax est la webradio idéale pour vos fonds sonores ! Vous pouvez l'écouter où que vous soyez et quand vous le voulez: à la maison, dans la voiture ou même au bureau. || ABC Relax: listen up, get down and relax. ABC Relax is the ideal webradio for background music. You can listen at home, in the car and even at work. </description>
+        <playlist_url>http://listen.radionomy.com/abcrelax.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/abcrelax</listen_url>
+        <image>https://i3.radionomy.com/radios/100/ae8b5709-c336-4404-a5de-cfe3503dfa73.png</image>
+        <uid>ae8b5709-c336-4404-a5de-cfe3503dfa73</uid>
+        <genre>relaxing, jazz, soul, easylistening, lounge</genre>
+        <stars>3</stars>
+        <website>http://abcrelax.com/</website>
+    </station>
+
+    <station id="44">
+        <name>Hippie Soul Radio</name>
+        <description>Hippie Soul is all about music that takes you back to another place and time.</description>
+        <playlist_url>http://listen.radionomy.com/hippiesoulradio.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hippiesoulradio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/ef6675f6-eb43-4414-a556-ffd48e476a2a.png</image>
+        <uid>ef6675f6-eb43-4414-a556-ffd48e476a2a</uid>
+        <genre>blues, 70s, rock, soul, pop</genre>
+        <stars>2</stars>
+        <website>http://www.hippiesoulradio.com/</website>
+    </station>
+
+    <station id="45">
+        <name>Soft Rock Radio</name>
+        <description>Classic Soft Rock and more! SoftRockRadio plays a unique mix of singer/songwriter based classic soft rock along with some other classics from the 70s, 80s and a touch of the 90s. Though some pop based songs of the era are played, you won't hear Mariah Carey or Celine Dion. Mellow Rock Soft Rock and Yacht Rock are all terms used to describe the styles of music played on SoftRockRadio.net.</description>
+        <playlist_url>http://listen.radionomy.com/softrockradio.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/softrockradio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/53bb9749-9a74-417e-ae5b-5cadb8e2e74d.jpg</image>
+        <uid>53bb9749-9a74-417e-ae5b-5cadb8e2e74d</uid>
+        <genre>soft, rock, easylistening, 70s, downtempo</genre>
+        <stars>2</stars>
+        <website>http://www.softrockradio.net/</website>
+    </station>
+
+    <station id="46">
+        <name>90s All Time Greatest</name>
+        <description>90s All Time Greatest is here to bring you the best 90s Music 24/7 free to your computer, smartphone and radio. All classic hits, one hit wonders and all those songs you had forgotten about..!</description>
+        <playlist_url>http://listen.radionomy.com/90salltimegreatest.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/90salltimegreatest</listen_url>
+        <image>https://i3.radionomy.com/radios/100/2734c267-1ebc-45dd-a1a4-11a8d7cd532b.jpg</image>
+        <uid>2734c267-1ebc-45dd-a1a4-11a8d7cd532b</uid>
+        <genre>hits, 90s, pop, rock</genre>
+        <stars>1</stars>
+        <website>http://www.alltimegreatestradio.com/</website>
+    </station>
+
+    <station id="47">
+        <name>Your Trance Radio</name>
+        <description>We will travel to the world of trance with its artists and their music. The goal of this radio is to making known the sound of trance and uplifting trance, vocals or not, from the producer over the world. Trance is not only a sound, it s passion, it s art , a universe of colors and people. It s Freedom. We are Music Lovers</description>
+        <playlist_url>http://listen.radionomy.com/yourtranceradio.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/yourtranceradio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/dd52157e-3800-4ab4-9f75-6d8f8d307336.jpg</image>
+        <uid>dd52157e-3800-4ab4-9f75-6d8f8d307336</uid>
+        <genre>trance, electronic, dance</genre>
+        <stars>2</stars>
+        <website>http://yourtranceradio.wix.com/yourtranceradio</website>
+    </station>
+
+    <station id="48">
+        <name>Hotmixradio Funky</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique des années Disco-Funk sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-funky-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-funky-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/92afc3fb-2a3b-4f8a-8499-47cce25a17ff.png</image>
+        <uid>92afc3fb-2a3b-4f8a-8499-47cce25a17ff</uid>
+        <genre>funk, soul</genre>
+        <stars>5</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="49">
+        <name>Hotmixradio Lounge</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique Lounge sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-lounge-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-lounge-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/facb9c54-3ed6-47db-bacd-09e74928070c.png</image>
+        <uid>facb9c54-3ed6-47db-bacd-09e74928070c</uid>
+        <genre>chillout, lounge</genre>
+        <stars>5</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="50">
+        <name>Hotmixradio 90</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique des années 90 sans pub ! Tags : 90s, années 90, pop, rock, grunge, dance</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-90-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-90-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/b47f1666-c838-4231-ac36-ed1317d91d95.png</image>
+        <uid>b47f1666-c838-4231-ac36-ed1317d91d95</uid>
+        <genre>90s, hits, pop, rock</genre>
+        <stars>4</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="51">
+        <name>Hotmixradio Rock</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique Rock sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-rock-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-rock-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/e53f5398-83cb-413f-a217-7588914a710c.png</image>
+        <uid>e53f5398-83cb-413f-a217-7588914a710c</uid>
+        <genre>rock</genre>
+        <stars>4</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="52">
+        <name>Hotmixradio HipHop</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de Hip-Hop by DJ Poska sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-hiphop-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-hiphop-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/e80b7f17-39a9-4478-b4e2-e2ef9a1cfd9a.png</image>
+        <uid>e80b7f17-39a9-4478-b4e2-e2ef9a1cfd9a</uid>
+        <genre>hiphop</genre>
+        <stars>3</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="53">
+        <name>Hotmixradio Hot</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique Sexy &amp; Love sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-hot-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-hot-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/4556fd8b-001d-46c2-970b-aba9a5870d99.png</image>
+        <uid>4556fd8b-001d-46c2-970b-aba9a5870d99</uid>
+        <genre>soul</genre>
+        <stars>3</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="54">
+        <name>Hotmixradio Metal</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique Metal sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-metal-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-metal-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/62e2e761-4daf-4a14-a82b-01da5cdb005a.png</image>
+        <uid>62e2e761-4daf-4a14-a82b-01da5cdb005a</uid>
+        <genre>metal, rock</genre>
+        <stars>2</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="55">
+        <name>Hotmixradio New</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique New sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-new-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-new-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/00468a64-f2e8-45f0-af84-69b3d0b6ac61.png</image>
+        <uid>00468a64-f2e8-45f0-af84-69b3d0b6ac61</uid>
+        <genre>hits</genre>
+        <stars>2</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="56">
+        <name>Hotmixradio Sunny</name>
+        <description>Ecoutez, toutes les heures, plus de 58 minutes de musique Sunny sans pub !</description>
+        <playlist_url>http://listen.radionomy.com/hotmixradio-sunny-128.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/hotmixradio-sunny-128</listen_url>
+        <image>https://i3.radionomy.com/radios/100/917711e7-b6a4-46de-b547-596c0c49e5f9.png</image>
+        <uid>917711e7-b6a4-46de-b547-596c0c49e5f9</uid>
+        <genre>hits</genre>
+        <stars>2</stars>
+        <website>http://www.hotmixradio.fr/</website>
+    </station>
+
+    <station id="57">
+        <name>Passion Love Radio</name>
+        <description>The most beautiful love songs of all time. As mais bonitas musicas romanticas de todos os tempos. Las mas hermosas canciones de amor de todos los tiempos. Les plus belles chansons d.amour de tous les temps. www.passionlove.net</description>
+        <playlist_url>http://listen.radionomy.com/passionloveradio.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/passionloveradio</listen_url>
+        <image>https://i3.radionomy.com/radios/100/a60ad10e-4971-4d28-9d22-baa2b4439bf8.jpg</image>
+        <uid>a60ad10e-4971-4d28-9d22-baa2b4439bf8</uid>
+        <genre>hits</genre>
+        <stars>2</stars>
+        <website>http://www.passionlove.net/</website>
+    </station>
+
+    <station id="58">
+        <name>Alternativa Online Portugal</name>
+        <description>A ALTERNATIVA RÁDIO é um projecto de comunicação, de divulgação e de promoção das inúmeras realidades locais. A ALTERNATIVA RÁDIO produz por sua iniciativa, ou por solicitação das mais diversas entidades e empresas, conteúdos de informação e de entretenimento destinados aos diferentes públicos.</description>
+        <playlist_url>http://listen.radionomy.com/alternativa-online-portugal.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/alternativa-online-portugal</listen_url>
+        <image>https://i3.radionomy.com/radios/100/990505ac-cca0-4098-94da-03042e48b43d.png</image>
+        <uid>990505ac-cca0-4098-94da-03042e48b43d</uid>
+        <genre>hits, 70s, 80s, jazz, latin, pop</genre>
+        <stars>0</stars>
+        <website>http://ar-alternativa-radio.weebly.com/</website>
+    </station>
+
+    <station id="59" featured="true">
+        <name>Top Tonic Rock</name>
+        <description>Tout Simplement Rock !</description>
+        <playlist_url>http://listen.radionomy.com/toptonicrock.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/toptonicrock</listen_url>
+        <image>https://i3.radionomy.com/radios/100/28df9603-2c4f-4c7b-8db3-1df872414419.jpg</image>
+        <uid>28df9603-2c4f-4c7b-8db3-1df872414419</uid>
+        <genre>rock, pop, metal</genre>
+        <stars>2</stars>
+        <website>http://www.rock.toptonic.org/</website>
+    </station>
+
+    <station id="60">
+        <name>Aardvark Blues FM</name>
+        <description>Blues for a better world!</description>
+        <playlist_url>http://listen.shoutcast.com/aardvarkbluesfm.m3u</playlist_url>
+        <listen_url>http://listen.shoutcast.com/aardvarkbluesfm</listen_url>
+        <image>https://i3.radionomy.com/radios/100/e27aabf9-5aaf-4ef6-8ded-f7e42dd61891.png</image>
+        <uid>e27aabf9-5aaf-4ef6-8ded-f7e42dd61891</uid>
+        <genre>blues</genre>
+        <stars>4</stars>
+        <website>http://www.aardvarkbluesfm.com/</website>
+    </station>
+</stations>

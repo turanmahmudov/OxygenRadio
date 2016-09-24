@@ -1,0 +1,12 @@
+{
+    "policy_groups": [
+        "networking",
+        "audio",
+        "connectivity",
+        "usermetrics",
+        "content_exchange",
+        "content_exchange_source",
+        "keep-display-on"
+    ],
+    "policy_version": 1.3
+}

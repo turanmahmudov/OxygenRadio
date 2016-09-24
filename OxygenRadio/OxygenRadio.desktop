@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Oxygen Radio
+Exec=qmlscene %U OxygenRadio/Main.qml
+Icon=OxygenRadio/OxygenRadio.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#ffffff
