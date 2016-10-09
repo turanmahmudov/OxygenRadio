@@ -694,4 +694,88 @@
         <stars>4</stars>
         <website>http://www.aardvarkbluesfm.com/</website>
     </station>
+
+    <station id="61">
+        <name>Beatles Radio</name>
+        <description>Beatles Radio the Music of the Beatles, Solos, Covers, Birthdays, News, The Fab 4 and More!</description>
+        <playlist_url>http://www.beatlesradio.com:8000/stream/1/;.m3u</playlist_url>
+        <listen_url>http://www.beatlesradio.com:8000/stream/1/;</listen_url>
+        <image>https://i3.radionomy.com/radios/100/dec3da64-e0d8-479f-8bd0-08f6ccb67f68.png</image>
+        <uid>dec3da64-e0d8-479f-8bd0-08f6ccb67f68</uid>
+        <genre>60s, 70s, oldies, rock</genre>
+        <stars>4</stars>
+        <website>http://www.beatlesradio.com/</website>
+    </station>
+
+    <station id="62">
+        <name>DeepFM</name>
+        <description>DeepFM - We are Dance!</description>
+        <playlist_url>http://sc.deep.fm/sd/;.m3u</playlist_url>
+        <listen_url>http://sc.deep.fm/sd/;</listen_url>
+        <image>https://i3.radionomy.com/radios/100/157eabf3-fb30-4e0e-aeef-9539328626d2.jpg</image>
+        <uid>157eabf3-fb30-4e0e-aeef-9539328626d2</uid>
+        <genre>dance, disco, house, downtempo, pop, electronic</genre>
+        <stars>4</stars>
+        <website>http://deep.fm/</website>
+    </station>
+
+    <station id="63">
+        <name>True Oldies Channel</name>
+        <description>Scott Shannon's TRUE OLDIES CHANNEL - The Heart &#38; Soul of Rock &#38; Roll</description>
+        <playlist_url>http://listen.radionomy.com/trueoldieschannel.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/trueoldieschannel</listen_url>
+        <image>https://i3.radionomy.com/radios/100/af4fdbde-1068-4c01-96d5-af5fcbfddc0b.jpg</image>
+        <uid>af4fdbde-1068-4c01-96d5-af5fcbfddc0b</uid>
+        <genre>60s, 70s, oldies, rock</genre>
+        <stars>4</stars>
+        <website>http://www.trueoldieschannel.com/</website>
+    </station>
+
+    <station id="64">
+        <name>Enjoystation</name>
+        <description>Un max de son fresh</description>
+        <playlist_url>http://listen.radionomy.com/EnjoyStation.m3u</playlist_url>
+        <listen_url>http://listen.radionomy.com/EnjoyStation</listen_url>
+        <image>https://i3.radionomy.com/radios/100/96f07fcc-5b34-4afd-94ff-0148eff61c5a.jpg</image>
+        <uid>96f07fcc-5b34-4afd-94ff-0148eff61c5a</uid>
+        <genre>hits, pop</genre>
+        <stars>3</stars>
+        <website>http://www.enjoystation.net/</website>
+    </station>
+
+    <station id="65">
+        <name>A_A Blues</name>
+        <description>The expression of soul</description>
+        <playlist_url>http://62.210.75.134:8000/stream/4/;.m3u</playlist_url>
+        <listen_url>http://62.210.75.134:8000/stream/4/;</listen_url>
+        <image>https://i3.radionomy.com/radios/100/658131e3-f553-40c5-ac2e-ad9883585708.png</image>
+        <uid>658131e3-f553-40c5-ac2e-ad9883585708</uid>
+        <genre>blues</genre>
+        <stars>2</stars>
+        <website>http://www.antholgoywebradio.com/</website>
+    </station>
+
+    <station id="66">
+        <name>Blues After Hours Radio</name>
+        <description>Blues After Hours is an internet radio station that prides itself on bringing you only the very best Blues ever recorded. What sets us apart from other stations? That's simple....It's all about the music!! We invite you to tune in and hear the difference for yourselves.</description>
+        <playlist_url>http://london-dedicated.myautodj.com:8108/stream/;.m3u</playlist_url>
+        <listen_url>http://london-dedicated.myautodj.com:8108/stream/;</listen_url>
+        <image>https://i3.radionomy.com/radios/100/d47ed3a6-2d74-431d-bf0f-3d675b3c351d.png</image>
+        <uid>d47ed3a6-2d74-431d-bf0f-3d675b3c351d</uid>
+        <genre>blues</genre>
+        <stars>2</stars>
+        <website>http://www.bluesafterhours.net/</website>
+    </station>
+
+    <station id="67">
+        <name>Smooth Jazz - Tampa Bay</name>
+        <description>Smooth Jazz Tampa Bay WSJT-DB - The Heart &#38; Soul of Tampa Bay. The Worlds Destination for Contemporary Smooth Jazz 24&#47;7</description>
+        <playlist_url>http://192.99.35.215:5250/stream/;.m3u</playlist_url>
+        <listen_url>http://192.99.35.215:5250/stream/;</listen_url>
+        <image>https://i3.radionomy.com/radios/100/a755e5e3-a2f6-4ffb-9eed-be2ef6e7c132.jpg</image>
+        <uid>a755e5e3-a2f6-4ffb-9eed-be2ef6e7c132</uid>
+        <genre>jazz, lounge, easylistening</genre>
+        <stars>2</stars>
+        <website>http://smoothjazztampabay.co/</website>
+    </station>
 </stations>

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-30 02:04+0300\n"
+"POT-Creation-Date: 2016-10-08 21:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -162,7 +162,7 @@ msgid "Share"
 msgstr ""
 
 #: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/FeaturedChannelsTab.qml:21
-#: /home/turan/Apps/build-OxygenRadio-Desktop-Debug/OxygenRadio/OxygenRadio.desktop.h:1
+#: /home/turan/Apps/build-OxygenRadio-UbuntuSDK_for_device_armhf_GCC_armhf_ubuntu_sdk_15_04-Debug/OxygenRadio/OxygenRadio.desktop.h:1
 msgid "Oxygen Radio"
 msgstr ""
 

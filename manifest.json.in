@@ -9,7 +9,7 @@
             "desktop": "OxygenRadio/OxygenRadio.desktop"
         }
     },
-    "version": "0.3.0.1",
+    "version": "0.3.1",
     "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
     "framework": "ubuntu-sdk-15.04.4"
 }
