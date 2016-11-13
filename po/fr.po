@@ -1,0 +1,225 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-08 21:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/Main.qml:66
+msgid "stations played today"
+msgstr "stations écoutées aujourd'hui"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/Main.qml:67
+msgid "No stations played today"
+msgstr "Aucune station écoutée aujourd'hui"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/Main.qml:88
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Search.qml:21
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Search.qml:34
+msgid "Search"
+msgstr "Rechercher"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/Main.qml:96
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:16
+msgid "Settings"
+msgstr "Paramètres"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/Main.qml:104
+msgid "New Station"
+msgstr "Nouvelle station"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/Main.qml:175
+msgid "Genre"
+msgstr "Genre"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/Main.qml:200
+msgid "Now Playing"
+msgstr "Lecture en cours"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/components/TabsList.qml:9
+msgid "Featured"
+msgstr "En vedette"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/components/TabsList.qml:17
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/GenresTab.qml:21
+msgid "Genres"
+msgstr "Genres"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/components/TabsList.qml:25
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/FavoritesTab.qml:21
+msgid "Favorites"
+msgstr "Favoris"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/components/TabsList.qml:33
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/CustomTab.qml:19
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/About.qml:8
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:194
+msgid "About"
+msgstr "À propos"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/About.qml:46
+msgid "Online Radio Streaming"
+msgstr "Lecture de radio en ligne"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/About.qml:74
+msgid "Released under the terms of the GNU GPL v3"
+msgstr "Distribué sous les termes de la licence GNU GLP v3"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/About.qml:83
+#, qt-format
+msgid "Source code available on %1"
+msgstr "Code source disponible sous %1"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Credits.qml:9
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:222
+msgid "Credits"
+msgstr "Crédits"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Credits.qml:29
+msgid "Creator"
+msgstr "Créateur"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Credits.qml:61
+msgid "Developers"
+msgstr "Développeurs"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/CustomTab.qml:78
+msgid "Remove"
+msgstr "Supprimer"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/CustomTab.qml:101
+msgid "Edit"
+msgstr "Modifier"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/EditStation.qml:17
+msgid "Edit Station"
+msgstr "Modifier la station"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/EditStation.qml:23
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/NewStation.qml:21
+msgid "Save"
+msgstr "Enregistrer"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/EditStation.qml:77
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/NewStation.qml:52
+msgid "Name of station"
+msgstr "Nom de la station"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/EditStation.qml:85
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/NewStation.qml:60
+msgid "My station"
+msgstr "Ma station"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/EditStation.qml:89
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/NewStation.qml:64
+msgid "URL of station"
+msgstr "URL de la station"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/EditStation.qml:97
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/EditStation.qml:109
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/NewStation.qml:72
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/NewStation.qml:84
+msgid "http://"
+msgstr "http://"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/EditStation.qml:101
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/NewStation.qml:76
+msgid "URL of logo"
+msgstr "URL du logo"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/EditStation.qml:113
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/NewStation.qml:88
+msgid "Short description"
+msgstr "Brève description"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/FavoritesTab.qml:133
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/FeaturedChannelsTab.qml:139
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/GenrePage.qml:116
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Search.qml:154
+msgid "Favorite"
+msgstr "Favoris"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/FavoritesTab.qml:148
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/FeaturedChannelsTab.qml:156
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/GenrePage.qml:133
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Search.qml:167
+msgid "Share"
+msgstr "Partager"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/FeaturedChannelsTab.qml:21
+#: /home/turan/Apps/build-OxygenRadio-UbuntuSDK_for_device_armhf_GCC_armhf_ubuntu_sdk_15_04-Debug/OxygenRadio/OxygenRadio.desktop.h:1
+msgid "Oxygen Radio"
+msgstr "Radio Oxygène"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/NewStation.qml:15
+msgid "Add New Station"
+msgstr "Ajouter une nouvelle station"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:36
+msgid "General"
+msgstr "Général"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:49
+msgid "Dark Theme"
+msgstr "Thème sombre"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:76
+msgid "Disable Screen Sleep"
+msgstr "Désactiver la mise en veille de l'écran"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:85
+msgid "Keep screen on to update playing song info"
+msgstr "Garder l'écran allumé pour mettre à jour les informations du morceau lu"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:103
+msgid "Playing"
+msgstr "Écoute de"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:116
+msgid "Play Last Station"
+msgstr "Écouter la dernière station"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:125
+msgid "Play last played station on startup"
+msgstr "Écouter la dernière station lue au démarrage"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:151
+msgid "Current Song Info"
+msgstr "Informations sur le morceau actuel"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:160
+msgid "Automatically update playing song info"
+msgstr "Mise à jour automatique des informations du morceau lu"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:177
+msgid "Miscellaneous"
+msgstr "Divers"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:203
+msgid "About Oxygen Radio"
+msgstr "À propos de Radio Oxygène"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/ui/Settings.qml:231
+msgid "Developers and Contributors"
+msgstr "Développeurs et contributeurs"
+
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/js/scripts.js:29
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/js/scripts.js:80
+#: /home/turan/Apps/OxygenRadio/OxygenRadio/js/scripts.js:126
+msgid "Unknown"
+msgstr "Inconnu"
